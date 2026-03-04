@@ -4,8 +4,10 @@
 0,SansHead,ClosedEyes,,,
 0,SansText,How are you here?,
 0,SansTorso,Shrug,,,
+0,MercyXY,310,,
 0,SetMaxHp,67,
 0,DamagePlayer,-150,,
 2,EndAttack,,,,
+
 
 
